@@ -22,3 +22,4 @@ print(merge(d1,d2))
 <img width="1041" height="172" alt="image" src="https://github.com/user-attachments/assets/0efa6f6d-5e32-4b7e-80a0-e9dffb83e77e" />
 
 ## Result
+Thus the python program to merge the two dictionary is executed successfully.
